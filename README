@@ -1,0 +1,20 @@
+Things to know:
+  First command line argument (other than executable) is vehicle inventory input file
+  second argument is person directory input file (given in lab 7)
+  third argument is file of names to remove for extra credits
+
+  When you enter an ID that is invalid for selecting a vehicle, it seems like
+  nothing happens, but when you print the inventory again to show the options
+  again, they print to the same place on the terminal so it looks like I did
+  not put in a message saying that the ID is invalid. Scroll up on the terminal
+  and it'll be there.
+
+  I honestly didn't run into a ton of problems. I understand inheritance
+  well enough that it didn't confuse me. It just took a long time with how
+  large of a program it is.
+
+  I think it is a good assignment. I know the summer sessions aren't as
+  conducive to this as other semesters but having these due at the end
+  of the week would allow students to have office hours the entire week
+  before instead of just one day. Most people wouldn't have enough of
+  the program finished to need help by Friday afternoon.

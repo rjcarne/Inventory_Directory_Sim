@@ -1,0 +1,12 @@
+Car Buick Enclave 2019 White 46049.00 6449 Excellent
+Car Kia Sorento 2015 Black 14500.00 65556 Good
+Truck Dodge Ram 2018 Black 27998.00 4658 Excellent long
+Truck Chevrolet Colorado-LT 2015 White 27998 4458 good short
+Car Buick Enclave 2014 Silver 20500.00 58845 Good
+Truck Ford F250 2007 White 10455.00 93164 Good long
+Car Chevrolet Tahoe 2019 White 47988.00 19715 Excellent
+Car Chevrolet Blazer 2019 White 46595.00 462 Excellent
+Car Honda CRV 2016 White 18967.00 99697 Good
+Car GMC Terrain 2016 Black 16900.00 55046 Good
+Truck Toyota Tundra 2018 Red 37999.00 3317 Excellent long
+Truck Dodge Ram 2014 Gray 15250.00 88349 Good long
