@@ -1,8 +1,4 @@
-/*************************
-* Ryan Carney
-* CPSC 1020 Sm19
-* rjcarne
-*************************/
+
 
 #ifndef ADDRESS_H
 #define ADDRESS_H
