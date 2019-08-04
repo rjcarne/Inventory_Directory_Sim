@@ -1,8 +1,4 @@
-/*************************
-* Ryan Carney
-* CPSC 1020 Sm19
-* rjcarne
-*************************/
+
 
 #ifndef CAR_H
 #define CAR_H
